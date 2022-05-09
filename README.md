@@ -1,5 +1,7 @@
-## react calculator
+# React Calculator
 
-calculator made with react
+Calculator made with React.
+
+##
 
 ![Calculator screenshot](./src/assets/Screenshot.png)
